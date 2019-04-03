@@ -1,0 +1,1 @@
+function Java() { document.getElementById("demo").innerHTML = "Hello. You changed the paragraph.";}
